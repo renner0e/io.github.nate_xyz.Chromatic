@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.nate_xyz.Chromatic",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "45",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -60,7 +60,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/nate-xyz/chromatic",
-                    "commit":"fe9d34e3cb30a045b95aa76f8cc4e3193903e262"
+                    "commit":"ffaeb50dcce74bf3ba1b05f98423cf48f205f55e"
                 }
             ]
         }
